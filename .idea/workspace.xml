@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dded37f-15fb-4bf4-ac88-73b9fcb13406" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/~$常用文档.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/rest_workplace.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/max_area.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/常用文档.docx" afterPath="$PROJECT_DIR$/常用文档.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/two_sum.py" afterPath="$PROJECT_DIR$/two_sum.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +42,8 @@
       <file leaf-file-name="3sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="67" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -464,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="67" selection-end-column="14" />
+        <state relative-caret-position="210">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding />
         </state>
       </provider>

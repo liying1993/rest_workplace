@@ -90,6 +90,11 @@ def threeSum(nums):
     #             ans.append([nums[first], nums[second], nums[third]])
     # return ans
 
+# 思路
+# 处理一堆杂乱的数，首先就是得排序，还是使用双指针法解决。
+# 三数之和可以转成两数之和去解决
+# 从左往右，依次把第一个箭头指向的数当作第一个元素。如果不允许重复，还需要去重
+
 
 if __name__ == "__main__":
     nums = [-1,0,1,2,-1,-4,-2,-3,3,0,4]

@@ -68,6 +68,8 @@ def func(nums, target):
                 return ans
     return ans
 
+# 思路 和3sum一样的思路，也是使用双指针法，将第一个元素定点，后面的元素逐渐往中间靠拢
+
 if __name__ == "__main__":
     nums = [-1,2,1,-4]
     # nums = [0,0,0,0]

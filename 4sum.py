@@ -41,6 +41,9 @@ def fourSum(nums, target):
                     four_sum.append(ans)
     return four_sum
 
+# 思路
+# 把4sum，转成3sum去计算
+
 if __name__ == '__main__':
     # nums = [1,0,-1,0,-2,2]
     nums = [-9,4,0,-3,6,3,-3,-9,-7,1,0,-7,-8,7,1]

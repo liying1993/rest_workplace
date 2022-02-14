@@ -19,6 +19,9 @@ def twoSum(nums, target):
         hashtable[nums[i]] = i
     return []
 
+# 思路：
+# 字典是由hash表实现的，是几种数据结构里面消耗最少的
+
 
 def remove_elements(head: ListNode, val):
     dummy_head = ListNode(next=head)
